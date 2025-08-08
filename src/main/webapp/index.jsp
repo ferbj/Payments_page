@@ -66,6 +66,11 @@
                             <label class="form-check-label" for="mastercard">BitCoin</label>
                         </div>
 
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="paymentMethod" id="mastercard" value="paypal" required>
+                            <label class="form-check-label" for="paypal">Paypal</label>
+                        </div>
+
 
                     </div>
 
