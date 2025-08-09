@@ -71,17 +71,7 @@
                             <label class="form-check-label" for="paypal">Paypal</label>
                         </div>
 
-                        <div class="form-check">
-                            <input class="form-check-input" type="radio" name="paymentMethod" id="mastercard" value="crypto" required>
-                            <label class="form-check-label" for="paypal">Crypto</label>
-                        </div>
-
-
                     </div>
-
-                   
-
-               
 
                     <!-- Submit Button -->
                     <button type="submit" class="btn btn-success btn-block">Submit Payment</button>
