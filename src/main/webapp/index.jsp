@@ -71,11 +71,10 @@
                             <label class="form-check-label" for="paypal">Paypal</label>
                         </div>
 
-                           <div class="form-check">
-                            <input class="form-check-input" type="radio" name="paymentMethod" id="other-crypto" value="other-crypto" required>
-                            <label class="form-check-label" for="paypal">Other Crypto</label>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="paymentMethod" id="yape" value="yape" required>
+                            <label class="form-check-label" for="yape">Yape</label>
                         </div>
-
 
                     </div>
 
