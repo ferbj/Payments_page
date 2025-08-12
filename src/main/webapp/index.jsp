@@ -71,6 +71,12 @@
                             <label class="form-check-label" for="paypal">Paypal</label>
                         </div>
 
+                           <div class="form-check">
+                            <input class="form-check-input" type="radio" name="paymentMethod" id="other-crypto" value="other-crypto" required>
+                            <label class="form-check-label" for="paypal">Other Crypto</label>
+                        </div>
+
+
                     </div>
 
                     <!-- Submit Button -->
